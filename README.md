@@ -37,5 +37,5 @@ Jika ingin klona di komputer lain. Taruh di direktori berikut:
 Jika sudah di berada di folder **git-github**, baru clone.
 
 ```shell
-git clone https://github.com/bagusperdanay7/WPU-git-test.git
+git clone https://github.com/bagusperdanay7/WPU-git-test-2.git
 ```
